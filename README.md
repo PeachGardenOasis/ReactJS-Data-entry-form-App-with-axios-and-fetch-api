@@ -1,5 +1,7 @@
 101032525
 
+![myimage-alt-tag](https://i.imgur.com/m0ZwLEQ.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
